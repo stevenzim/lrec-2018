@@ -1,5 +1,5 @@
 # lrec-2018
-Herein are the code books to evaluate ensemble methods on Wasseem Hatespeech and Semeval Twitter datasets published at [lrec-2018](http://lrec2018.lrec-conf.org/en/).
+Herein are the code books for reproducibility purposes on the Wasseem Hatespeech and Semeval Twitter datasets published at [lrec-2018](http://lrec2018.lrec-conf.org/en/).
 
 # Citing work
 Please use information in the following bibtex entry for citation, and be sure to cite other relevant works contained within.
